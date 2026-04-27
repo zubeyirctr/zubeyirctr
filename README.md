@@ -1,6 +1,6 @@
 # Zübeyir Çatar
 
-İstanbul Arel Üniversitesi Bilgisayar Mühendisliği öğrencisiyim. Yapay zeka entegrasyonları, mobil uygulama geliştirme ve finansal teknolojiler (trade botları) üzerine çalışmalar yapıyorum.
+İstanbul Arel Üniversitesi Bilgisayar Mühendisliği öğrencisiyim. Yapay zeka entegrasyonları, mobil uygulama geliştirme ve finansal teknolojiler (trade botları) üzerine çalışmalar yapıyorum ve ilgim var.
 
 ### Yetkinlikler
 - Programlama Dilleri: C, JavaScript, Java
